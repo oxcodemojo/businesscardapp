@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">businesscardapp</string>
+
+    <string name="logo_text">android</string>
+
+
+
+    <string name="full_name">Code Mojo</string>
+    <string name="user_role">Android Developer Extraordinaire</string>
+    <string name="user_phone">+11 (123) 444 555 666</string>
+    <string name="social_media_handle">_codeMojo</string>
+    <string name="user_email">tech.codemojo@gmail.com</string>
+</resources>
